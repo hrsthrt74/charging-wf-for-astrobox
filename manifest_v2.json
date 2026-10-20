@@ -5,7 +5,7 @@
     "name": "充电表盘 for S5【动态】",
     "description": "还原「充电」的表盘 · 60帧 · 全屏动态\n\n*请注意，仅适配 S5。其他设备因分辨率不同，无法使用。\n\nQ&A：\nQ：不是 100% 还原？\nA：设计上不考虑 100% 还原，想要 100% 请自己制作\nQ：耗电等级 3？\nA：因为全屏动态 + 60 帧，介意的话请不要使用\n\n*本表盘仅供娱乐。禁止用于违规用途。",
     "preview": [
-      "media/animation.webp"
+      "media/animation2.webp"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
